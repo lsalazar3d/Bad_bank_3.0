@@ -1,7 +1,5 @@
 
 function Spa() {
- // const { setStatus } = useContext(UserContext);
-
   return (
     <HashRouter>
       <div>
