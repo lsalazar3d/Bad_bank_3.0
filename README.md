@@ -7,3 +7,16 @@ Screenshots: Screenshots and presentation videos are provided under the Presenta
 Technology used: MongoDB, Express, React, Node and Bootsrap along with Docker and graphQL for testing and Authentication with email/password and google sign in
 Features: It now displays all data properly with the correct State tracking implemented.
 License: MIT
+
+Aca dejo los links de los videos presentacion y del website Hosting:
+
+Links Para el Bad Bank App 
+
+Video:
+
+Video # 1 :https://youtu.be/2HyjeAlhajg
+Video #2: https://youtu.be/RHJJGZo_aEw
+Video #3: https://youtu.be/iMiqjDl3hzI
+
+Github: lsalazar3d/Bad_bank_3.0 (github.com)
+Website: Bad Bank (badbankls.firebaseapp.com)
