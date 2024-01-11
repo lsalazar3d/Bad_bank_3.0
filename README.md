@@ -18,5 +18,5 @@ Video # 1 :https://youtu.be/2HyjeAlhajg
 Video #2: https://youtu.be/RHJJGZo_aEw
 Video #3: https://youtu.be/iMiqjDl3hzI
 
-Github: lsalazar3d/Bad_bank_3.0 (github.com)
-Website: Bad Bank (badbankls.firebaseapp.com)
+Github: [lsalazar3d/Bad_bank_3.0 (github.com)](https://github.com/lsalazar3d/Bad_bank_3.0)
+Website: Bad Bank [ (badbankls.firebaseapp.com)](https://badbankls.firebaseapp.com/#/)https://badbankls.firebaseapp.com/#/
