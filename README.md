@@ -12,13 +12,21 @@ Aca dejo los links de los videos presentacion y del website Hosting:
 
 Links Para el Bad Bank App 
 
-Video:
+Youtube Presentation Video:
 
 Video # 1 :https://youtu.be/2HyjeAlhajg
 Video #2: https://youtu.be/RHJJGZo_aEw
 Video #3: https://youtu.be/iMiqjDl3hzI
 
 Github: [lsalazar3d/Bad_bank_3.0 (github.com)](https://github.com/lsalazar3d/Bad_bank_3.0)
+
+Showcase Demo Video #1
+https://youtu.be/rCKrLymTths
+Showcase Demo Video #2
+https://youtu.be/-pYOlkTVNu0
+Showcase Demo Video #3
+https://youtu.be/XWyUYh2mfWI
+
 
 
 Website: Bad Bank [ (badbankls.firebaseapp.com)](https://badbankls.firebaseapp.com/#/)https://badbankls.firebaseapp.com/#/
